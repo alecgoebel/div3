@@ -3,6 +3,7 @@
 This is the most up-to-date version of my div 3.
 
 ## Sections
+ * [Timeline](../master/timeline.md)
  * [Visual Language Components](../master/language.md)
 
 ## Working On
