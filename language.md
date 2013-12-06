@@ -27,13 +27,13 @@ More complicated function structures, like infix operations, can be conceived.
 
 
 
-[container_node]: https://github.com/alecgoebel/div3/raw/master/image/container_node.svg "Instance of a container"
-[container_type]: https://github.com/alecgoebel/div3/raw/master/image/container_type.svg "Container with a type"
-[context]: https://github.com/alecgoebel/div3/raw/master/image/context.svg "Basic context"
-[edge]: https://github.com/alecgoebel/div3/raw/master/image/edge.svg "Edge between nodes"
-[fn0]: https://github.com/alecgoebel/div3/raw/master/image/fn0.svg "Function with no arguments"
-[fn1]: https://github.com/alecgoebel/div3/raw/master/image/fn1.svg "Function with 1 argument"
-[fnN]: https://github.com/alecgoebel/div3/raw/master/image/fnN.svg "Function with N arguments"
-[infix]: https://github.com/alecgoebel/div3/raw/master/image/infix.svg "Infix operator"
-[node]: https://github.com/alecgoebel/div3/raw/master/image/node.svg "Node"
-[type]: https://github.com/alecgoebel/div3/raw/master/image/type.svg "Type"
+[container_node]: https://github.com/alecgoebel/div3/raw/master/image/container_node.png "Instance of a container"
+[container_type]: https://github.com/alecgoebel/div3/raw/master/image/container_type.png "Container with a type"
+[context]: https://github.com/alecgoebel/div3/raw/master/image/context.png "Basic context"
+[edge]: https://github.com/alecgoebel/div3/raw/master/image/edge.png "Edge between nodes"
+[fn0]: https://github.com/alecgoebel/div3/raw/master/image/fn0.png "Function with no arguments"
+[fn1]: https://github.com/alecgoebel/div3/raw/master/image/fn1.png "Function with 1 argument"
+[fnN]: https://github.com/alecgoebel/div3/raw/master/image/fnN.png "Function with N arguments"
+[infix]: https://github.com/alecgoebel/div3/raw/master/image/infix.png "Infix operator"
+[node]: https://github.com/alecgoebel/div3/raw/master/image/node.png "Node"
+[type]: https://github.com/alecgoebel/div3/raw/master/image/type.png "Type"
