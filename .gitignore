@@ -1,3 +1,11 @@
 .*.sw*
 tmp/
-tex/Makefile
+tex/*.log
+tex/*.aux
+tex/*.auxbbl.make
+tex/*.aux.make
+tex/*.auxtarget.make
+tex/*.d
+tex/*.fls
+tex/*.log
+
