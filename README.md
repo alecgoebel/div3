@@ -2,10 +2,14 @@
 
 This is the most up-to-date version of my div 3.
 
-## Sections
- * [Timeline](../master/timeline.md)
- * [Visual Language Components](../master/language.md)
+ 1. [Visual Languages](visual_language.md)
+ 2. [Textual Languages](textual_language.md)
+
+
+## Other Sections
+ * [Timeline](timeline.md)
+ * [Visual Language Components](language.md)
 
 ## Working On
- * Postmortem
  * diagrams of previous thoughts on visual languages
+ * thoughts on visual languages as a whole
