@@ -7,8 +7,6 @@ Similar to early textual languages, their expressive power is lacking.  Data
 flow and event based languages are little more than messaging.  Block languages
 like Scratch bring it a bit higher to imperative programming.
 
-Some are more theoretical like UML.
-
 ## Single Purpose
 
 Visual languages currently exist primarily as single purpose languages.  

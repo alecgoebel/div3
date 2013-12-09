@@ -2,10 +2,9 @@
 tmp/
 tex/*.log
 tex/*.aux
-tex/*.auxbbl.make
-tex/*.aux.make
-tex/*.auxtarget.make
+tex/*.make
+tex/*.temp
 tex/*.d
 tex/*.fls
 tex/*.log
-
+.~lock*
